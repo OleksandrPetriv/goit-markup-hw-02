@@ -1,0 +1,46 @@
+body 
+{
+  font-family: 'Roboto', sans-serif;
+}
+.header
+{
+  color: #000000;
+}
+.header a:hover,
+.header a:focus
+{
+  color: rgb(255, 0, 0);
+}
+
+.logo
+{
+color: #000000;
+font-weight: bold;
+ font-family: 'Raleway', sans-serif;
+}
+.logo .web
+{
+  color: #4D5AE5;
+}
+.nav-list
+{
+    font-weight: bold;
+}
+.contacts-list a
+{
+  color: #000000;
+font-style: normal;
+}
+.nav-list a
+{
+   color: black;
+  
+}
+.nav-list
+{
+ list-style: none;
+}
+.contacts-list
+{
+   list-style: none;
+}
