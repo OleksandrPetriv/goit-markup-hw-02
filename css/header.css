@@ -17,6 +17,7 @@ body
 color: #000000;
 font-weight: bold;
  font-family: 'Raleway', sans-serif;
+ text-transform: uppercase;
 }
 .logo .web
 {
@@ -24,7 +25,8 @@ font-weight: bold;
 }
 .nav-list
 {
-    font-weight: bold;
+
+  font-weight: bold;
 }
 .contacts-list a
 {
@@ -43,4 +45,16 @@ font-style: normal;
 .contacts-list
 {
    list-style: none;
+}
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding-left: 20px;
+}
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
 }
