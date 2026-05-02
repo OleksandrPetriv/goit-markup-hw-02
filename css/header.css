@@ -16,10 +16,13 @@ body
 {
 color: #000000;
 font-weight: bold;
- font-family: 'Raleway', sans-serif;
- text-transform: uppercase;
+font-family: 'Raleway', sans-serif;
+text-transform: uppercase;
+font-size: 18px;
+line-height: 1.33;
+letter-spacing: 0.03em;
 }
-.logo .web
+.logo span 
 {
   color: #4D5AE5;
 }
@@ -57,4 +60,21 @@ a:hover,
 a:focus,
 a:active {
   text-decoration: none;
+}
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+.contacts-link {
+  color: #434455;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
 }

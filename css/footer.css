@@ -1,4 +1,4 @@
-#footer
+.footer
 {
     background-color: #2E2F42;
 }
@@ -21,4 +21,18 @@ font-weight: bold;
 .footer-text
 {
     color: white;
+}
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer .logo {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
