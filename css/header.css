@@ -50,7 +50,8 @@ font-style: normal;
    list-style: none;
 }
 ul,
-ol {
+ol 
+{
   list-style: none;
   margin: 0;
   padding-left: 20px;
@@ -58,16 +59,19 @@ ol {
 a,
 a:hover,
 a:focus,
-a:active {
+a:active 
+{
   text-decoration: none;
 }
-.nav-link {
+.nav-link 
+{
   font-weight: 500;
   color: #2e2f42;
 }
 
 .nav-link:hover,
-.nav-link:focus {
+.nav-link:focus 
+{
   color: #404bbf;
 }
 .contacts-link {
@@ -75,6 +79,7 @@ a:active {
 }
 
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus 
+{
   color: #404bbf;
 }
