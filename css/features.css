@@ -25,3 +25,14 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}

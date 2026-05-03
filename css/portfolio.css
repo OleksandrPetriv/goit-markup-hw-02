@@ -25,3 +25,13 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.contacts-link {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
